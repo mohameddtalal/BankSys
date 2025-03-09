@@ -1,0 +1,31 @@
+C:\Users\hp\source\repos\banksys\banksys\obj\Debug\banksys.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\banksys\banksys\obj\Debug\banksys.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\banksys\banksys\obj\Debug\banksys.Form1.resources
+C:\Users\hp\source\repos\banksys\banksys\obj\Debug\banksys.Properties.Resources.resources
+C:\Users\hp\source\repos\banksys\banksys\obj\Debug\banksys.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\banksys\banksys\obj\Debug\banksys.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\banksys\banksys\bin\Debug\banksys.exe.config
+C:\Users\hp\source\repos\banksys\banksys\bin\Debug\banksys.exe
+C:\Users\hp\source\repos\banksys\banksys\bin\Debug\banksys.pdb
+C:\Users\hp\source\repos\banksys\banksys\obj\Debug\banksys.exe
+C:\Users\hp\source\repos\banksys\banksys\obj\Debug\banksys.pdb
+C:\Users\hp\source\repos\banksys\banksys\obj\Debug\banksys.Form2.resources
+C:\Users\hp\source\repos\banksys\banksys\obj\Debug\banksys.Form3.resources
+C:\Users\hp\source\repos\banksys\banksys\obj\Debug\banksys.Form4.resources
+C:\Users\hp\source\repos\banksys\banksys\obj\Debug\banksys.Form5.resources
+C:\Users\hp\source\repos\banksys\banksys\obj\Debug\banksys.Form6.resources
+D:\projects se\bank database\banksys\bin\Debug\banksys.exe.config
+D:\projects se\bank database\banksys\bin\Debug\banksys.exe
+D:\projects se\bank database\banksys\bin\Debug\banksys.pdb
+D:\projects se\bank database\banksys\obj\Debug\banksys.csproj.AssemblyReference.cache
+D:\projects se\bank database\banksys\obj\Debug\banksys.Form1.resources
+D:\projects se\bank database\banksys\obj\Debug\banksys.Form2.resources
+D:\projects se\bank database\banksys\obj\Debug\banksys.Form3.resources
+D:\projects se\bank database\banksys\obj\Debug\banksys.Form4.resources
+D:\projects se\bank database\banksys\obj\Debug\banksys.Form5.resources
+D:\projects se\bank database\banksys\obj\Debug\banksys.Form6.resources
+D:\projects se\bank database\banksys\obj\Debug\banksys.Properties.Resources.resources
+D:\projects se\bank database\banksys\obj\Debug\banksys.csproj.GenerateResource.cache
+D:\projects se\bank database\banksys\obj\Debug\banksys.csproj.CoreCompileInputs.cache
+D:\projects se\bank database\banksys\obj\Debug\banksys.exe
+D:\projects se\bank database\banksys\obj\Debug\banksys.pdb
